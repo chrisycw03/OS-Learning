@@ -1,7 +1,7 @@
 # Operating System Note
 ## Reference
 
-- 陳世杰教授, 作業系統, [](http://debussy.im.nuu.edu.tw/sjchen/OS_Final.html)
+- 陳世杰教授, 作業系統, http://debussy.im.nuu.edu.tw/sjchen/OS_Final.html
 
 ## Contents
 
